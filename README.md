@@ -5,4 +5,6 @@ We will build a chatbot that uses various Watson AI Services (Watson Discovery, 
 
 When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person. In this project, there will be another option. If the customer question is about the operation of a device, the application shall pass the question onto Watson Discovery Service, which has been pre-loaded with the device’s owner’s manual. So now, instead of “Would you like to speak to a customer representative?” we can return relevant sections of the owners manual to help solve our customers’ problems. So, unless and until customer specifically asks for a customer representative the bot will try to solve all your queries.
 
-My Node Red Web UI Link : https://node-red-uhwfp.eu-gb.mybluemix.net/ui/#!/0?socketid=jW9hknDrF5G5MaNTAABh
+Node Red Web UI Link : https://node-red-uhwfp.eu-gb.mybluemix.net/ui/#!/0?socketid=jW9hknDrF5G5MaNTAABh
+
+Youtube Video link: https://youtu.be/uQiijP6wKgI
